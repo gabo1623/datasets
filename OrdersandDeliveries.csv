@@ -1,4 +1,4 @@
-Country,Customer Name,Delivery Year ,Engine,Model Series,Order Month,Order Year,Region,Delivery Total,Order Total,Unfilled Orders
+Country,Customer Name,Delivery Year ,Engine,Model Series,Order Month,Order Year,Region,Delivery Total,order_total,Unfilled Orders
 Afghanistan,Ariana Afghan Airlines,1968,PW,727,Mar,1968,Central Asia,1,1,
 Afghanistan,Ariana Afghan Airlines,1970,PW,727,Apr,1969,Central Asia,1,1,
 Afghanistan,Ariana Afghan Airlines,1979,GE,DC-10,Sep,1978,Central Asia,1,1,
